@@ -13,3 +13,9 @@ school emails on the owner's own computer. It is not offered to anyone else.
 - No data is sold, shared, or used for advertising.
 - Access can be revoked at any time at
   https://myaccount.google.com/permissions.
+
+  ## Terms of service
+
+Littlebird is a personal tool used only by its owner. It is not offered,
+sold, or licensed to anyone else, and no one else may sign in to it. It is
+provided as-is, with no warranty.
